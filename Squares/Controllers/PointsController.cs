@@ -16,14 +16,14 @@ public class PointsController(IPointsService pointsService) : ControllerBase
     [HttpPost]
     [ProducesResponseType((int)HttpStatusCode.OK)]
     [ProducesResponseType((int)HttpStatusCode.BadRequest)]
-    public async Task<IActionResult> AddPoint(int x, int y)
+    public async Task<IActionResult> AddPoint([FromBody] PointDto point)
     {
         try
         {
-            await _pointsService.AddPointAsync(new Point(x, y));
-            return Ok($"Point ({x}, {y}) added successfully.");
+            await _pointsService.AddPointAsync(new Point(point.X, point.Y));
+            return Ok($"Point ({point.X}, {point.Y}) added successfully.");
         }
-        catch (ArgumentException ex)
+        catch (DuplicatePointException ex)
         {
             return BadRequest(ex.Message);
         }
@@ -32,12 +32,12 @@ public class PointsController(IPointsService pointsService) : ControllerBase
     [HttpDelete]
     [ProducesResponseType((int)HttpStatusCode.OK)]
     [ProducesResponseType((int)HttpStatusCode.NotFound)]
-    public async Task<IActionResult> DeletePoint(int x, int y)
+    public async Task<IActionResult> DeletePoint([FromBody] PointDto point)
     {
         try
         {
-            await _pointsService.DeletePointAsync(x, y);
-            return Ok($"Point ({x}, {y}) deleted successfully.");
+            await _pointsService.DeletePointAsync(point.X, point.Y);
+            return Ok($"Point ({point.X}, {point.Y}) deleted successfully.");
         }
         catch (ArgumentException ex)
         {

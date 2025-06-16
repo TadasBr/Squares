@@ -3,14 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares\\controllers\\pointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|solutionrelative:controllers\\pointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CF2D24-63A3-4B62-8089-1DC96DB3C01F}|..\\Squares.Business\\Squares.Business.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares.business\\services\\pointsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B0D46FD-6409-46D2-A29C-001A7D1487F2}|..\\Squares.Persistence\\Squares.Persistence.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares.persistence\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CF2D24-63A3-4B62-8089-1DC96DB3C01F}|..\\Squares.Business\\Squares.Business.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares.business\\services\\pointsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares\\dtos\\pointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|solutionrelative:dtos\\pointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0D46FD-6409-46D2-A29C-001A7D1487F2}|..\\Squares.Persistence\\Squares.Persistence.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares.persistence\\repositories\\ipointsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CF2D24-63A3-4B62-8089-1DC96DB3C01F}|..\\Squares.Business\\Squares.Business.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares.business\\exceptions\\duplicatepointexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8CF2D24-63A3-4B62-8089-1DC96DB3C01F}|..\\Squares.Business\\Squares.Business.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares.business\\services\\ipointsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -19,38 +37,17 @@
       "AbsoluteMoniker": "D:0:0:{C8CF2D24-63A3-4B62-8089-1DC96DB3C01F}|..\\Squares.Business\\Squares.Business.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares.business\\models\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CF2D24-63A3-4B62-8089-1DC96DB3C01F}|..\\Squares.Business\\Squares.Business.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares.business\\exceptions\\duplicatepointexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares\\controllers\\pointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|solutionrelative:controllers\\pointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1B0D46FD-6409-46D2-A29C-001A7D1487F2}|..\\Squares.Persistence\\Squares.Persistence.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares.persistence\\squares.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDD8EA5D-9860-4A0C-B4EF-6B82D5CC695B}|..\\Squares.Bussiness.UnitTests\\Squares.Bussiness.UnitTests.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares.bussiness.unittests\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B0D46FD-6409-46D2-A29C-001A7D1487F2}|..\\Squares.Persistence\\Squares.Persistence.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares.persistence\\repositories\\pointsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8CF2D24-63A3-4B62-8089-1DC96DB3C01F}|..\\Squares.Business\\Squares.Business.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares.business\\squares.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares\\dtos\\squaredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|solutionrelative:dtos\\squaredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares\\dtos\\pointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C004605-71AD-43E3-8B97-5E49A5FB9B24}|Squares.API.csproj|solutionrelative:dtos\\pointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B0D46FD-6409-46D2-A29C-001A7D1487F2}|..\\Squares.Persistence\\Squares.Persistence.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares.persistence\\repositories\\ipointsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B0D46FD-6409-46D2-A29C-001A7D1487F2}|..\\Squares.Persistence\\Squares.Persistence.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\squares\\squares\\squares.persistence\\squaresdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -78,56 +75,8 @@
           "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UnitTests.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Bussiness.UnitTests\\UnitTests.cs",
-              "RelativeDocumentMoniker": "..\\Squares.Bussiness.UnitTests\\UnitTests.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Bussiness.UnitTests\\UnitTests.cs",
-              "RelativeToolTip": "..\\Squares.Bussiness.UnitTests\\UnitTests.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAqwAcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:44:52.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Square.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Models\\Square.cs",
-              "RelativeDocumentMoniker": "..\\Squares.Business\\Models\\Square.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Models\\Square.cs",
-              "RelativeToolTip": "..\\Squares.Business\\Models\\Square.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T16:58:51.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PointsController.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Controllers\\PointsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PointsController.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Controllers\\PointsController.cs",
-              "RelativeToolTip": "Controllers\\PointsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T19:06:57.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PointsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Persistence\\Repositories\\PointsRepository.cs",
-              "RelativeDocumentMoniker": "..\\Squares.Persistence\\Repositories\\PointsRepository.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Persistence\\Repositories\\PointsRepository.cs",
-              "RelativeToolTip": "..\\Squares.Persistence\\Repositories\\PointsRepository.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T19:14:51.869Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -137,131 +86,77 @@
               "RelativeDocumentMoniker": "..\\Squares.Business\\Services\\PointsService.cs",
               "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Services\\PointsService.cs",
               "RelativeToolTip": "..\\Squares.Business\\Services\\PointsService.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAUwCsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T19:35:23.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IPointsService.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Services\\IPointsService.cs",
-              "RelativeDocumentMoniker": "..\\Squares.Business\\Services\\IPointsService.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Services\\IPointsService.cs",
-              "RelativeToolTip": "..\\Squares.Business\\Services\\IPointsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T19:35:30.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DuplicatePointException.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Exceptions\\DuplicatePointException.cs",
-              "RelativeDocumentMoniker": "..\\Squares.Business\\Exceptions\\DuplicatePointException.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Exceptions\\DuplicatePointException.cs",
-              "RelativeToolTip": "..\\Squares.Business\\Exceptions\\DuplicatePointException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:33:59.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Squares.Persistence",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Persistence\\Squares.Persistence.csproj",
-              "RelativeDocumentMoniker": "..\\Squares.Persistence\\Squares.Persistence.csproj",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Persistence\\Squares.Persistence.csproj",
-              "RelativeToolTip": "..\\Squares.Persistence\\Squares.Persistence.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-10T17:54:38.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-06-11T19:29:48.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
+              "Title": "UnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Bussiness.UnitTests\\UnitTests.cs",
+              "RelativeDocumentMoniker": "..\\Squares.Bussiness.UnitTests\\UnitTests.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Bussiness.UnitTests\\UnitTests.cs",
+              "RelativeToolTip": "..\\Squares.Bussiness.UnitTests\\UnitTests.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:44:52.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Squares.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Persistence\\Squares.Persistence.csproj",
+              "RelativeDocumentMoniker": "..\\Squares.Persistence\\Squares.Persistence.csproj",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Persistence\\Squares.Persistence.csproj",
+              "RelativeToolTip": "..\\Squares.Persistence\\Squares.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T17:54:38.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Point.cs",
               "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Persistence\\Entities\\Point.cs",
               "RelativeDocumentMoniker": "..\\Squares.Persistence\\Entities\\Point.cs",
               "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Persistence\\Entities\\Point.cs",
               "RelativeToolTip": "..\\Squares.Persistence\\Entities\\Point.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T19:11:14.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Squares.Business",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Squares.Business.csproj",
-              "RelativeDocumentMoniker": "..\\Squares.Business\\Squares.Business.csproj",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Squares.Business.csproj",
-              "RelativeToolTip": "..\\Squares.Business\\Squares.Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-11T19:45:14.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "IPointsRepository.cs",
               "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Persistence\\Repositories\\IPointsRepository.cs",
               "RelativeDocumentMoniker": "..\\Squares.Persistence\\Repositories\\IPointsRepository.cs",
               "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Persistence\\Repositories\\IPointsRepository.cs",
               "RelativeToolTip": "..\\Squares.Persistence\\Repositories\\IPointsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T19:15:05.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SquareDto.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Dtos\\SquareDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\SquareDto.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Dtos\\SquareDto.cs",
-              "RelativeToolTip": "Dtos\\SquareDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T19:39:41.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T17:41:36.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "PointDto.cs",
               "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Dtos\\PointDto.cs",
               "RelativeDocumentMoniker": "Dtos\\PointDto.cs",
@@ -274,7 +169,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
+              "Title": "PointsController.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Controllers\\PointsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PointsController.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Controllers\\PointsController.cs*",
+              "RelativeToolTip": "Controllers\\PointsController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:06:57.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Models\\Square.cs",
+              "RelativeDocumentMoniker": "..\\Squares.Business\\Models\\Square.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Models\\Square.cs",
+              "RelativeToolTip": "..\\Squares.Business\\Models\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:58:51.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPointsService.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Services\\IPointsService.cs",
+              "RelativeDocumentMoniker": "..\\Squares.Business\\Services\\IPointsService.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Services\\IPointsService.cs",
+              "RelativeToolTip": "..\\Squares.Business\\Services\\IPointsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:35:30.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:41:36.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DuplicatePointException.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Exceptions\\DuplicatePointException.cs",
+              "RelativeDocumentMoniker": "..\\Squares.Business\\Exceptions\\DuplicatePointException.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Exceptions\\DuplicatePointException.cs",
+              "RelativeToolTip": "..\\Squares.Business\\Exceptions\\DuplicatePointException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:33:59.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Squares.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Squares.Business.csproj",
+              "RelativeDocumentMoniker": "..\\Squares.Business\\Squares.Business.csproj",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Business\\Squares.Business.csproj",
+              "RelativeToolTip": "..\\Squares.Business\\Squares.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T19:45:14.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SquareDto.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Dtos\\SquareDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\SquareDto.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Dtos\\SquareDto.cs",
+              "RelativeToolTip": "Dtos\\SquareDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:39:41.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "SquaresDbContext.cs",
               "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares.Persistence\\SquaresDbContext.cs",
               "RelativeDocumentMoniker": "..\\Squares.Persistence\\SquaresDbContext.cs",
@@ -282,12 +264,11 @@
               "RelativeToolTip": "..\\Squares.Persistence\\SquaresDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T19:09:40.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T19:09:40.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Squares.API.csproj",
               "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\Squares.API.csproj",
               "RelativeDocumentMoniker": "Squares.API.csproj",
@@ -295,12 +276,11 @@
               "RelativeToolTip": "Squares.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-10T17:45:04.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T17:45:04.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -308,12 +288,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-10T17:54:26.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T17:54:26.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\Squares\\Squares\\Squares\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -321,8 +300,7 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-10T17:54:29.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T17:54:29.159Z"
             }
           ]
         }
